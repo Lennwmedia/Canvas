@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+canvas {
+  border: 2px solid whitesmoke;
+  background-color: aqua;
+}
+
+#triangle {
+  background: linear-gradient(yellow, red, aliceblue);
+  
+}
+
+#face {
+  background-color: purple;
+}
+
+#canvas {
+  background-color: red;
+}
+
+#prueba {
+  background-color: aliceblue;
+  border: 2px solid red;
+}
+
+#image {
+  background: greenyellow;
+} 
